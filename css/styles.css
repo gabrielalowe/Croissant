@@ -6,3 +6,13 @@ h1,
 p {
   text-align: center;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container a {
+  color: green;
+  margin: 0 10px;
+}
